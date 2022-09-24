@@ -10,7 +10,7 @@ It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, 
 ## Holy cow, that's a lot of swords, what do they do?
 All swords can be eaten, although some are not much of a good idea...
 
-**WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse, death by extremelly satire and unfunny jokes.**
+**WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse and/or death by extremelly satire and unfunny jokes.**
 <br></br>
 <details>
     <summary>Bread Sword</summary>
