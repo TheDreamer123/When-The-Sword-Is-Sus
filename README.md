@@ -14,7 +14,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
 <details>
     <summary>Bread Sword</summary>
     The bread sword is like any other, except it can be thrown into water to wet it.
-    Wet bread swords are more fragile and when eaten instantly kill you, passing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.
+    Wet bread swords are more fragile and when eaten instantly kill you, passing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.\n
     <details>
         <summary>Recipe</summary>
         <img src="images/bread_sword.png" alt="Bread Sword" align="center">
