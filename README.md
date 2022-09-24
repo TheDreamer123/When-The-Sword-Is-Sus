@@ -58,7 +58,7 @@ All swords can be eaten, although some are not much of a good idea...
     Dyeth loves this sword!
     <details>
         <summary>For those that didn't get this terrible pun:</summary>
-        It can be dyed, just like leather armor, combining dye is also possible.
+        It can be dyed just like leather armor, combining dye is also possible.
     </details>
     <br></br>
     <details>
