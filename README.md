@@ -14,7 +14,8 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
 <details>
     <summary>Bread Sword</summary>
     The bread sword is like any other, except it can be thrown into water to wet it.
-    Wet bread swords are more fragile and when eaten instantly kill you, passing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.\n
+    Wet bread swords are more fragile and when eaten instantly kill you, passing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.
+    <br></br>
     <details>
         <summary>Recipe</summary>
         <img src="images/bread_sword.png" alt="Bread Sword" align="center">
@@ -24,6 +25,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
 <details>
     <summary>Apple Sword</summary>
     The apple sword, just like the bread sword is as any other, although, you can upgrade it on a crafting table with gold ingots.
+    <br></br>
     <details>
         <summary>Recipe</summary>
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
@@ -32,6 +34,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <summary>Golden Apple Sword</summary>
         The golden apple sword, when eaten behaves as it's vanilla counterpart, the only difference being the duration of the effects is shorter.
         If a zombie villager is hit with it, as long as it's under the weakness effect, it'll work like you right-clicked with a golden apple on it.
+        <br></br>
         <details>
             <summary>Recipe</summary>
         <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
