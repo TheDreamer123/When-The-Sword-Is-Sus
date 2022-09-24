@@ -4,7 +4,7 @@ Swords but definitely not normal.
 **WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse and/or death by extremely satire and unfunny jokes.**
 
 ## What does this mod do?
-This mod adds a bunch of cursed swords, some even with custom abilities!
+This Fabrid mod adds a bunch of cursed swords, some even with custom abilities!
 
 ## What swords does it add?
 It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, suspicious stew and sculk sword.
