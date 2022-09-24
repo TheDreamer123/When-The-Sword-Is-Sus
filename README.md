@@ -15,7 +15,7 @@ All swords can be eaten, although some are not much of a good idea...
 <details>
     <summary>Bread Sword</summary>
     The bread sword is like any other, except it can be thrown into water to wet it.
-    Wet bread swords are more fragile and when eaten instantly kill you, passing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.
+    Wet bread swords are more fragile and when eaten instantly kill you, bypassing even the totem of undying, if you want to revert it, simply throw the item inside a sand block.
     <br></br>
     <details>
         <summary>Recipe</summary>
@@ -47,5 +47,16 @@ All swords can be eaten, although some are not much of a good idea...
         	<summary>Enchanted Golden Apple Sword</summary>
             The enchanted golden apple sword, just like the non-enchanted version, gives it's effects when eaten, the zombie villager mechanic no longer works but when sneaking and right-clicking, instead of eating it, you can throw a projectile that is affected by the sword's enchantments.
         </details>
+    </details>
+</details>
+<br></br>
+<details>
+    <summary>Glass Sword</summary>
+    The glass sword is fragile as hell, you can only use it once, and when used, you'll get a glass cut and get damaged.
+    If eaten, you get an effect that damages anything that hits you, when it's over, it kills you instantly, bypassing the totem of undying.
+    <br></br>
+    <details>
+        <summary>Recipe</summary>
+        <img src="images/glass_sword.png" alt="Bread Sword" align="center">
     </details>
 </details>
