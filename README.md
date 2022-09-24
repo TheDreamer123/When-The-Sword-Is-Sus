@@ -8,9 +8,9 @@ This mod adds a bunch of cursed swords, some even with custom abilities!
 It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, suspicious stew and sculk swords.
 
 ## Holy cow, that's a lot of swords, what do they do?
-WARNING: All swords can be eaten, i do not guarantee you'll catch a disease or get sick by doing so.
+All swords can be eaten, although some are not much of a good idea...
 
-I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
+**WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse, death by extremelly satire and unfunny jokes.**
 <br></br>
 <details>
     <summary>Bread Sword</summary>
