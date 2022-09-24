@@ -29,7 +29,12 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
     </details>
     <details>
-        <summary>Recipe</summary>
-        <img src="images/apple_sword.png" alt="Apple Sword" align="center">
+        <summary>Golden Apple Sword</summary>
+        The golden apple sword, when eaten behaves as it's vanilla counterpart, the only difference being the duration of the effects is shorter.
+        If a zombie villager is hit with it, as long as it's under the weakness effect, it'll work like you right-clicked with a golden apple on it.
+        <details>
+            <summary>Recipe</summary>
+        <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
+    </details>
     </details>
 </details>
