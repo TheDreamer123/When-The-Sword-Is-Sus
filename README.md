@@ -9,6 +9,7 @@ It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, 
 
 ## Holy cow, that's a lot of swords, what do they do?
 WARNING: All swords can be eaten, i do not guarantee you'll catch a disease or get sick by doing so.
+
 I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
 
 <details>
