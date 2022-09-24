@@ -4,5 +4,5 @@ Wet bread swords are more fragile and when eaten instantly kill you, bypassing e
 <br></br>
 <details>
   <summary>Recipe</summary>
-  <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/bread_sword.png?raw=true" alt="Bread Sword" align="center">
+  <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/bread_sword.png?raw=true" alt="Bread Sword" align="center">
 </details>
