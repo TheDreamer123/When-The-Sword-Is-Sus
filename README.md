@@ -11,7 +11,7 @@ It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, 
 WARNING: All swords can be eaten, i do not guarantee you'll catch a disease or get sick by doing so.
 
 I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
-
+<br></br>
 <details>
     <summary>Bread Sword</summary>
     The bread sword is like any other, except it can be thrown into water to wet it.
@@ -22,7 +22,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <img src="images/bread_sword.png" alt="Bread Sword" align="center">
     </details>
 </details>
-
+<br></br>
 <details>
     <summary>Apple Sword</summary>
     The apple sword, just like the bread sword is as any other, although, you can upgrade it on a crafting table with gold ingots.
@@ -31,6 +31,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <summary>Recipe</summary>
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
     </details>
+    <br></br>
     <details>
         <summary>Golden Apple Sword</summary>
         The golden apple sword, when eaten behaves as it's vanilla counterpart, the only difference being the duration of the effects is shorter.
@@ -40,6 +41,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
             <summary>Recipe</summary>
             <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
         </details>
+        <br></br>
         If enchanted, it'll turn into an enchanted golden apple sword.
         <details>
         	<summary>Enchanted Golden Apple Sword</summary>
