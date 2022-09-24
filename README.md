@@ -5,7 +5,7 @@ Swords but definitely not normal.
 This mod adds a bunch of cursed swords, some even with custom abilities!
 
 ## What swords does it add?
-It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, suspicious stew and sculk swords.
+It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, suspicious stew and sculk sword.
 
 ## Holy cow, that's a lot of swords, what do they do?
 All swords can be eaten, although some are not much of a good idea...
