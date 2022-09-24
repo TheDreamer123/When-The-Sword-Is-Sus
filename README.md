@@ -70,7 +70,7 @@ All swords can be eaten, although some are not much of a good idea...
 <details>
     <summary>Anvil Sword</summary>
     The anvil sword, as it name says, is very heavy, so heavy it makes jumping harder and falling way faster, it also makes foes travel through the center of the Earth! (The higher you jumped from the more they get buried.)
-    
+    <br></br>
     If eaten, it makes you heavier.
     <br></br>
     <details>
