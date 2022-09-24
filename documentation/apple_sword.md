@@ -3,7 +3,7 @@ The apple sword, just like the bread sword is as any other, although, you can up
 <br></br>
 <details>
     <summary>Recipe</summary>
-  <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/apple_sword.png?raw=true" alt="Apple Sword" align="center">
+  <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/apple_sword.png?raw=true" alt="Apple Sword" align="center">
   </details>
   <br></br>
   <details>
@@ -13,7 +13,7 @@ The apple sword, just like the bread sword is as any other, although, you can up
     <br></br>
     <details>
         <summary>Recipe</summary>
-        <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/golden_apple_sword.png?raw=true" alt="Apple Sword" align="center">
+        <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/golden_apple_sword.png?raw=true" alt="Golden Apple Sword" align="center">
       </details>
       <br></br>
       If enchanted, it'll turn into an enchanted golden apple sword.
