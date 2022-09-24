@@ -1,6 +1,8 @@
 # When The Sword Is Sus:
 Swords but definitely not normal.
 
+**WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse and/or death by extremelly satire and unfunny jokes.**
+
 ## What does this mod do?
 This mod adds a bunch of cursed swords, some even with custom abilities!
 
@@ -9,8 +11,6 @@ It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, 
 
 ## Holy cow, that's a lot of swords, what do they do?
 All swords can be eaten, although some are not much of a good idea...
-
-**WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse and/or death by extremelly satire and unfunny jokes.**
 <br></br>
 <details>
     <summary>Bread Sword</summary>
