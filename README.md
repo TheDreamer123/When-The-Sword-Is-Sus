@@ -14,17 +14,17 @@ All swords can be eaten, although some are not much of a good idea...
 <br></br>
 <details>
     <summary>Bread Sword</summary>
-    https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/bread_sword.md
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/bread_sword.md">Click here for information about this sword.</a>
 </details>
 <details>
     <summary>Apple Sword</summary>
-    https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/apple_sword.md
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/apple_sword.md">Click here for information about this sword.</a>
 </details>
 <details>
     <summary>Glass Sword</summary>
-    https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/glass_sword.md
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/glass_sword.md">Click here for information about this sword.</a>
 </details>
 <details>
     <summary>Anvil Sword</summary>
-    https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/anvil_sword.md
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/anvil_sword.md">Click here for information about this sword.</a>
 </details>
