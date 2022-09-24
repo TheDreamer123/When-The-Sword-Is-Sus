@@ -10,5 +10,5 @@ Dyeth loves this sword!
 <br></br>
 <details>
   <summary>Recipe</summary>
-  <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/glass_sword.png?raw=true" alt="Bread Sword" align="center">
+  <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/glass_sword.png?raw=true" alt="Glass Sword" align="center">
 </details>
