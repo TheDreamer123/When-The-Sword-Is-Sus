@@ -29,11 +29,13 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
     </details>
     
-    <summary>Golden Apple Sword</summary>
-    The golden apple sword, when eaten gives the golden apple effects, just for a bit less time.
-    If a zombie villager is hit with it, as long as it has the weakness effect, the curing process will happen.
     <details>
-        <summary>Recipe</summary>
-        <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
+        <summary>Golden Apple Sword</summary>
+        The golden apple sword, when eaten gives the golden apple effects, just for a bit less time.
+        If a zombie villager is hit with it, as long as it has the weakness effect, the curing process will happen.
+        <details>
+            <summary>Recipe</summary>
+            <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
+        </details>
     </details>
 </details>
