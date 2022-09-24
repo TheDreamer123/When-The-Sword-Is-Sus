@@ -18,5 +18,6 @@ When eaten all sounds get replaced by the slime's, your health bar turns green, 
   <details>
     <summary>Recipe</summary>
     <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/molten_slime_sword.png?raw=true" alt="Molten Slime Sword" align="center">
+    The recipe is shapeless!
   </details>
 </details>
