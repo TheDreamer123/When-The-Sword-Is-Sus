@@ -16,27 +16,13 @@ All swords can be eaten, although some are not much of a good idea...
     <summary>Bread Sword</summary>
     https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/bread_sword.md
 </details>
-<br></br>
 <details>
     <summary>Apple Sword</summary>
     https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/apple_sword.md
 </details>
-<br></br>
 <details>
     <summary>Glass Sword</summary>
-    The glass sword is fragile as hell, you can only use it once, and when used, you'll get a glass cut and get damaged.
-    If eaten, you get an effect that damages anything that hits you, when it's over, it kills you instantly, bypassing the totem of undying.
-    <br></br>
-    Dyeth loves this sword!
-    <details>
-        <summary>For those that didn't get this terrible pun:</summary>
-        It can be dyed just like leather armor, combining dye is also possible.
-    </details>
-    <br></br>
-    <details>
-        <summary>Recipe</summary>
-        <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/glass_sword.png?raw=true" alt="Bread Sword" align="center">
-    </details>
+    https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/glass_sword.md
 </details>
 <br></br>
 <details>
