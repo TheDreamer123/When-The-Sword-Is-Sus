@@ -7,5 +7,5 @@ When eaten, you are granted an effect that behaves similarly to the totem of und
 <br></br>
 <details>
   <summary>Recipe</summary>
-  <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/totem_sword.png?raw=true" alt="Bread Sword" align="center">
+  <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/totem_sword.png?raw=true" alt="Totem Sword" align="center">
 </details>
