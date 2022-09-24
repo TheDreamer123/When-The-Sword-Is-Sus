@@ -42,6 +42,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         </details>
         If enchanted, it'll turn into an enchanted golden apple sword.
         <details>
+        	<summary>Enchanted Golden Apple Sword</summary>
             The enchanted golden apple sword, just like the non-enchanted version, gives it's effects when eaten, the zombie villager mechanic no longer works but when sneaking and right-clicking, instead of eating it, you can throw a projectile that is affected by the sword's enchantments.
         </details>
     </details>
