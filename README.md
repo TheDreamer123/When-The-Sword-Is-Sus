@@ -28,7 +28,6 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
         <summary>Recipe</summary>
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
     </details>
-    
     <details>
         <summary>Recipe</summary>
         <img src="images/apple_sword.png" alt="Apple Sword" align="center">
