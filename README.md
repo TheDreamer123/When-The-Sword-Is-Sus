@@ -30,8 +30,7 @@ I DO NOT GET RESPONSIBILIZED BY ANYTHING THAT HAPPENS BY EATING ONE!!!
     </details>
     
     <details>
-        <summary>Golden Apple Sword</summary>
-        The golden apple sword, when eaten gives the effects of a regular golden apple for part of the time.
-        If a zombie villager is hit with it, as long as it's under the weakness effect, it'll begin the conversion process.
+        <summary>Recipe</summary>
+        <img src="images/apple_sword.png" alt="Apple Sword" align="center">
     </details>
 </details>
