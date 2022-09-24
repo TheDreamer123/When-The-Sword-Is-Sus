@@ -19,7 +19,7 @@ All swords can be eaten, although some are not much of a good idea...
     <br></br>
     <details>
         <summary>Recipe</summary>
-        <img src="images/bread_sword.png" alt="Bread Sword" align="center">
+        <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/bread_sword.png?raw=true" alt="Bread Sword" align="center">
     </details>
 </details>
 <br></br>
@@ -29,7 +29,7 @@ All swords can be eaten, although some are not much of a good idea...
     <br></br>
     <details>
         <summary>Recipe</summary>
-        <img src="images/apple_sword.png" alt="Apple Sword" align="center">
+        <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/apple_sword.png?raw=true" alt="Apple Sword" align="center">
     </details>
     <br></br>
     <details>
@@ -39,7 +39,7 @@ All swords can be eaten, although some are not much of a good idea...
         <br></br>
         <details>
             <summary>Recipe</summary>
-            <img src="images/golden_apple_sword.png" alt="Apple Sword" align="center">
+            <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/golden_apple_sword.png?raw=true" alt="Apple Sword" align="center">
         </details>
         <br></br>
         If enchanted, it'll turn into an enchanted golden apple sword.
@@ -63,6 +63,6 @@ All swords can be eaten, although some are not much of a good idea...
     <br></br>
     <details>
         <summary>Recipe</summary>
-        <img src="images/glass_sword.png" alt="Bread Sword" align="center">
+        <img src="https://github.com/TheDreamer123/Image-Repository/blob/main/wtsis/glass_sword.png?raw=true" alt="Bread Sword" align="center">
     </details>
 </details>
