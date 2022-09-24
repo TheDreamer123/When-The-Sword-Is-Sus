@@ -54,7 +54,7 @@ All swords can be eaten, although some are not much of a good idea...
     <summary>Glass Sword</summary>
     The glass sword is fragile as hell, you can only use it once, and when used, you'll get a glass cut and get damaged.
     If eaten, you get an effect that damages anything that hits you, when it's over, it kills you instantly, bypassing the totem of undying.
-    
+    <br></br>
     Dyeth loves this sword!
     <details>
         <summary>For those that didn't get this terrible pun:</summary>
