@@ -1,0 +1,36 @@
+{
+  "parent": "wtsis:obtain_flint_and_steel_sword",
+  "criteria": {
+    "flint_and_steel_sword": {
+      "conditions": {
+        "item": {
+          "items": [
+            "wtsis:flint_and_steel_sword"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.consume_flint_and_steel_sword.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:flint_and_steel_sword",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.consume_flint_and_steel_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "flint_and_steel_sword"
+    ]
+  ]
+}

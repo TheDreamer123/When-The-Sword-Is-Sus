@@ -1,0 +1,20 @@
+{
+  "type": "wtsis:crafting_special_suspicious_stew_sword",
+  "pattern": [
+    "#",
+    "#",
+    "/"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:suspicious_stew"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "wtsis:suspicious_stew_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "wtsis:root",
+  "criteria": {
+    "apple_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "wtsis:apple_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.obtain_apple_sword.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:apple_sword"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.obtain_apple_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "apple_sword"
+    ]
+  ]
+}

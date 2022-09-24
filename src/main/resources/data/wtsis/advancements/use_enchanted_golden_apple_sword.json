@@ -1,0 +1,35 @@
+{
+  "parent": "wtsis:obtain_enchanted_golden_apple_sword",
+  "criteria": {
+    "enchanted_golden_apple_sword": {
+      "conditions": {
+        "item": {
+          "items": [
+            "wtsis:golden_apple_sword"
+          ]
+        }
+      },
+      "trigger": "wtsis:throw_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.use_enchanted_golden_apple_sword.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.use_enchanted_golden_apple_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "enchanted_golden_apple_sword"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "wtsis:root",
+  "criteria": {
+    "flint_and_steel_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "wtsis:flint_and_steel_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.obtain_flint_and_steel_sword.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:flint_and_steel_sword"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.obtain_flint_and_steel_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "flint_and_steel_sword"
+    ]
+  ]
+}

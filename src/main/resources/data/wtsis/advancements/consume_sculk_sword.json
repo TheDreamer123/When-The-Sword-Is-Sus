@@ -1,0 +1,36 @@
+{
+  "parent": "wtsis:obtain_sculk_sword",
+  "criteria": {
+    "sculk_sword": {
+      "conditions": {
+        "item": {
+          "items": [
+            "wtsis:sculk_sword"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.consume_sculk_sword.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:sculk_sword",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.consume_sculk_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "sculk_sword"
+    ]
+  ]
+}

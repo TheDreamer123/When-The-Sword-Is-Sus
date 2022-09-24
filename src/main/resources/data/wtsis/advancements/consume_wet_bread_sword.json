@@ -1,0 +1,36 @@
+{
+  "parent": "wtsis:obtain_wet_bread_sword",
+  "criteria": {
+    "wet_bread_sword": {
+      "conditions": {
+        "item": {
+          "items": [
+            "wtsis:wet_bread_sword"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.consume_wet_bread_sword.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:wet_bread_sword",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.consume_wet_bread_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "wet_bread_sword"
+    ]
+  ]
+}

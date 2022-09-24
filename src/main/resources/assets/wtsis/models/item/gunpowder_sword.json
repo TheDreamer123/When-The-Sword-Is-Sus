@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "wtsis:item/gunpowder_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "wtsis:explosion_ticks": 1.0
+      },
+      "model": "wtsis:item/ignited_gunpowder_sword"
+    }
+  ]
+}
