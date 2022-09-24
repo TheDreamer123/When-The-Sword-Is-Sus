@@ -28,3 +28,27 @@ All swords can be eaten, although some are not much of a good idea...
     <summary>Anvil Sword</summary>
     <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/anvil_sword.md">Click here for information about this sword.</a>
 </details>
+<details>
+    <summary>Totem Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/totem_sword.md">Click here for information about this sword.</a>
+</details>
+<details>
+    <summary>Gunpowder Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/gunpowder_sword.md">Click here for information about this sword.</a>
+</details>
+<details>
+    <summary>Slime Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/slime_sword.md">Click here for information about this sword.</a>
+</details>
+<details>
+    <summary>Flint and Steel Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/flint_and_steel_sword.md">Click here for information about this sword.</a>
+</details>
+<details>
+    <summary><b>Sus</b>picious Stew Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/suspicious_stew_sword.md">Click here for information about this sword.</a>
+</details>
+<details>
+    <summary>Sculk Sword</summary>
+    <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/sculk_sword.md">Click here for information about this sword.</a>
+</details>
