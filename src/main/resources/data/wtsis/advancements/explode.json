@@ -1,0 +1,38 @@
+{
+  "parent": "wtsis:obtain_gunpowder_sword",
+  "criteria": {
+    "gunpowder_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "wtsis:gunpowder_sword"
+            ]
+          }
+        ]
+      },
+      "trigger": "wtsis:explosionzilla"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.explode.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wtsis:gunpowder_sword",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.explode.title"
+    }
+  },
+  "requirements": [
+    [
+      "gunpowder_sword"
+    ]
+  ]
+}

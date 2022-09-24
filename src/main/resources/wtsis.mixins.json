@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dreamer.wtsis.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "server.AccessDamageSource",
+    "server.AccessZombieVillagerMixin",
+    "server.BlockMixin",
+    "server.CandleCakeBlockMixin",
+    "server.EntityMixin",
+    "server.ItemEntityMixin",
+    "server.ItemStackMixin",
+    "server.LivingEntityMixin",
+    "server.PlayerEntityMixin",
+    "server.ServerPlayerEntityMixin"
+  ],
+  "client": [
+    "client.ClientPlayNetworkHandlerMixin",
+    "client.InGameHudMixin",
+    "client.ModelPredicateProviderRegistryMixin",
+    "client.StatusEffectSpriteManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "wtsis:obtain_enchanted_golden_apple_sword",
+  "criteria": {
+    "enchanted_golden_apple_sword": {
+      "conditions": {
+        "item": {
+          "items": [
+            "wtsis:golden_apple_sword"
+          ]
+        }
+      },
+      "trigger": "wtsis:consume_item_with_enchantment"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wtsis.consume_enchanted_golden_apple_sword.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:cooked_beef",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wtsis.consume_enchanted_golden_apple_sword.title"
+    }
+  },
+  "requirements": [
+    [
+      "enchanted_golden_apple_sword"
+    ]
+  ]
+}
