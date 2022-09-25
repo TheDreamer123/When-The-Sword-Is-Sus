@@ -1,5 +1,4 @@
 # Suspicious Stew Sword
-<br></br>
 # ඞ
 The suspicious stew sword has an effect depending on it's crafting ingredients.
 
