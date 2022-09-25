@@ -1,5 +1,4 @@
-# Suspicious Stew Sword
-# ඞ
+# <del>ඞ</del> Suspicious Stew Sword
 The suspicious stew sword has an effect depending on it's crafting ingredients.
 
 Anything it hits gets that effect and so do you if you eat it.
