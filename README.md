@@ -62,7 +62,8 @@ No and no, although this mod should be compatible with 1.19.1 and 1.19.2.
 ## Can i use this mod in my modpack?
 Yes, feel free to, just please credit me.
 
-### Links
+<br></br>
+## Links
 **CurseForge: https://www.curseforge.com/minecraft/mc-mods/when-the-sword-is-sus**
 
 **Modrinth: **
