@@ -64,4 +64,5 @@ Yes, feel free to, just please credit me.
 
 ### Links
 **CurseForge: https://www.curseforge.com/minecraft/mc-mods/when-the-sword-is-sus**
+
 **Modrinth: **
