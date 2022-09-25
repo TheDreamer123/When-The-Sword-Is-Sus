@@ -9,6 +9,6 @@ Anything it hits gets that effect and so do you if you eat it.
   <summary>Recipe</summary>
   <img src="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/images/suspicious_stew_sword.png?raw=true" alt="Suspicious Stew Sword" align="center">
   <br></br>
-  Both suspicious stews must have the same effect <del>or if for some reason you don't want any effect, both must not any</del>!
+  Both suspicious stews must have the same effect <del>or if for some reason you don't want any effect, both must have none</del>!
   
 </details>
