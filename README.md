@@ -4,7 +4,7 @@ Swords but definitely not normal.
 **WARNING: Using this mod can cause one to go insane, uncontrollable laugh if your humor is the most broken in the multiverse and/or death by extremely satire and unfunny jokes.**
 
 ## What does this mod do?
-This Fabrid mod adds a bunch of cursed swords, some even with custom abilities!
+This <a href="https://fabricmc.net/">Fabric</a> mod adds a bunch of cursed swords, some even with custom abilities!
 
 ## What swords does it add?
 It adds a bread, apple, glass, anvil, totem, gunpowder, slime, flint and steel, suspicious stew and sculk sword.
@@ -52,3 +52,16 @@ All swords can be eaten, although some are not much of a good idea...
     <summary>Sculk Sword</summary>
     <a href="https://github.com/TheDreamer123/When-The-Sword-Is-Sus/blob/1.19/documentation/sculk_sword.md">Click here for information about this sword.</a>
 </details>
+
+## Why?
+Good question...
+
+## Forge? X version?
+No and no, although this mod should be compatible with 1.19.1 and 1.19.2.
+
+## Can i use this mod in my modpack?
+Yes, feel free to, just please credit me.
+
+### Links
+**CurseForge: https://www.curseforge.com/minecraft/mc-mods/when-the-sword-is-sus**
+**Modrinth: **
